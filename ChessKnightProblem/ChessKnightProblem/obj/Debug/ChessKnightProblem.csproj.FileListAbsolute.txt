@@ -1,0 +1,10 @@
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\bin\Debug\ChessKnightProblem.exe.config
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\bin\Debug\ChessKnightProblem.exe
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\bin\Debug\ChessKnightProblem.pdb
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\obj\Debug\ChessKnightProblem.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\obj\Debug\ChessKnightProblem.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\obj\Debug\ChessKnightProblem.exe
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\obj\Debug\ChessKnightProblem.pdb
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\bin\Debug\ChessKnightProblem.business.dll
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\bin\Debug\ChessKnightProblem.business.pdb
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem\obj\Debug\ChessKnightProblem.csproj.CopyComplete

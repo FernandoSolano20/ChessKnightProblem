@@ -1,0 +1,6 @@
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem.business\bin\Debug\ChessKnightProblem.business.dll
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem.business\bin\Debug\ChessKnightProblem.business.pdb
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem.business\obj\Debug\ChessKnightProblem.business.csprojAssemblyReference.cache
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem.business\obj\Debug\ChessKnightProblem.business.csproj.CoreCompileInputs.cache
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem.business\obj\Debug\ChessKnightProblem.business.dll
+C:\Users\fesolano\Desktop\Exercise #4\ChessKnightProblem\ChessKnightProblem.business\obj\Debug\ChessKnightProblem.business.pdb
